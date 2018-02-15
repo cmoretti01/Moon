@@ -47,9 +47,11 @@ Veja o que você irá aprender com a mentoria Cryptotrader BR:
 
 Tudo isso você pode aprender e aplicar imediatamente, independente se você quer focar 100% nesse mercado, ou apenas quer expandir seus investimentos.
 
-Se você tem, pelo menos, 30 minutos por dia para dedicar a este mercado, então com certeza, esta mentoria é para você.
+Se você tem, pelo menos, 30 minutos por dia para dedicar a esta modalidade de investimento, então com certeza, esta mentoria é para você.
 
 E mesmo que você já trabalhe ou tenha um negócio próprio, investir no mercado de moedas digitais não exige 100% do seu tempo para que tenha bons retornos.
+
+## Sobre a mentoria
 
 A mentoria é divida em 4 sessões, que duram entre 45 a 60 minutos e são 100% on line.
 
@@ -83,10 +85,12 @@ O pagamento é realizado através do Pagseguro, e a compra é 100% segura e gara
 **NÃO PERCA TEMPO. CLIQUE NO LINK ABAIXO E GARANTA JÁ SUA VAGA!**
 
 <!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
+<center>
 <form action="https://pagseguro.uol.com.br/checkout/v2/payment.html" method="post">
 <!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
 <input type="hidden" name="code" value="30DD74F61A1AB5CAA475DF9F14456491" />
 <input type="hidden" name="iot" value="button" />
 <input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/pagamentos/209x48-comprar-assina.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
 </form>
+<center>
 <!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
