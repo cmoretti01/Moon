@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 coisas que você deve saber antes de comprar Bitcoin
-tags: [bitcoin, corretoras, carteiras digitais, spread]
+tags: [bitcoin, spread]
 comments: true
 date: 2018-02-20
 feature: /assets/img/post02/bitcoin-rising.jpg
