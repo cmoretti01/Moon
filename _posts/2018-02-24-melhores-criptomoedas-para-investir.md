@@ -52,7 +52,7 @@ O intuito da criação dessa moeda não é ser concorrente ou rival do Bitcoin, 
 
 Assim como o "ouro digital", o **Litecoin** pode ser minerado, e possui uma quantidade limitada de unidades (84 milhões).
 
-A velocidade de transações é bem mais rápida, e a conversão para dinheiro comum é mais fácil. E assim como o Bitcoin, possui sua carteri
+A velocidade de transações é bem mais rápida, e a conversão para dinheiro comum é mais fácil. E assim como o Bitcoin, possui sua carteira digital própria.
 
 Mesmo com as recentes altas da moeda, o **Litecoin** permanece sendo mais barato que o **Bitcoin**, e ainda tem muito espaço para crescer e se consolidar ainda mais como a "prata digital".
 
