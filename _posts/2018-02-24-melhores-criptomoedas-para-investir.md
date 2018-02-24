@@ -58,7 +58,7 @@ Mesmo com as recentes altas da moeda, o **Litecoin** permanece sendo mais barato
 
 ## Ethereum
 
-Agora sim, estamos falando de um potencial concorrente ao **Bitcoin**, e com um potencial que pode coloca-lo em xeque nos próximos anos.
+Agora sim, estamos falando de um potencial concorrente ao **Bitcoin**, e com um potencial que pode colocá-lo em xeque nos próximos anos.
 
 A **Ethereum** é uma plataforma digital descentralizada, que criou um conceito inovador e disruptivo para realizar transações financeiras.
 
