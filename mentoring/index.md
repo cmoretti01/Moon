@@ -88,9 +88,9 @@ O pagamento é realizado através do Pagseguro, e a compra é 100% segura e gara
 <center>
 <form action="https://pagseguro.uol.com.br/checkout/v2/payment.html" method="post">
 <!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
-<input type="hidden" name="code" value="30DD74F61A1AB5CAA475DF9F14456491" />
+<input type="hidden" name="code" value="3C62EABB8B8B86C994874F864FF9FD3E" />
 <input type="hidden" name="iot" value="button" />
-<input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/pagamentos/209x48-comprar-assina.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
+<input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/pagamentos/209x48-comprar-azul-assina.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
 </form>
-<center>
+</center>
 <!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
