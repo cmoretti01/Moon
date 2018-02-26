@@ -40,7 +40,7 @@ Com os recados dados, vamos ao que interessa!
 
 Vários sites especializados em criptomoedas, classificam o Bitcoin como o "ouro digital".
 
-Steve Wozniak, um dos co-fundadores da Apple, chegou a afirmar que o Bitcoin é "melhor do que o ouro e o próprio dólar", devido a sua quantidade limitade de unidades que podem ser geradas.
+Steve Wozniak, um dos co-fundadores da Apple, chegou a afirmar que o Bitcoin é "melhor do que o ouro e o próprio dólar", devido a sua quantidade limitada de unidades que podem ser geradas.
 
 E será que, se existe ouro digital, pode existir uma prata? A resposta é sim!
 
