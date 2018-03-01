@@ -61,7 +61,7 @@ Você pode escolher o dia e horário mais adequados para realizar as aulas.
 
 A mentoria tem o valor total de R$ 3.000,00. Porém, exclusivamente até o fim do mês de Fevereiro, você poderá adquiri-la por apenas **R$ 1.500,00**.
 
-Isso mesmo! Meetade do valor real.
+Isso mesmo! Metade do valor real.
 
 E além das 4 sessões, a mentoria Cryptotrader BR também inclue:
 
