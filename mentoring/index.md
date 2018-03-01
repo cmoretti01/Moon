@@ -13,7 +13,7 @@ A mentoria Cryptotrader BR é a fonte certa para que você consiga encontrar opo
 
 Uma única moeda digital foi capaz de valorizar mais de 300% em menos de duas semanas.
 
-E o que dizer do próprio Bitcoin em si? Veja isto:
+E o que dizer do próprio Bitcoin? Veja isto:
 
 ![Trade com Bitcoin](/assets/img/mentoring/btc_trade.png)
 
@@ -21,7 +21,7 @@ Mesmo com a queda de Setembro de 2017, o Bitcoin resistiu as baixas e alcançou 
 
 Uma valorização de mais de 500% em 3 meses.
 
-E mesmo com as recentes quedas, o Bitcoin consegue se manter próximo dos US$ 10.000,00. Valor 10x maior do que no começo de 2017.
+E ainda com as recentes quedas, o Bitcoin consegue se manter próximo dos US$ 10.000,00. Valor 10x maior do que no começo de 2017.
 
 Agora, se está em dúvida se a mentoria dá resultados, veja o que alguns de meus alunos estão achando:
 
@@ -72,11 +72,15 @@ E além das 4 sessões, a mentoria Cryptotrader BR também inclue:
 
 Todos esses bônus **GRATUITOS**. Sem nenhum custo adicional!
 
+## Garantia total de retorno
+
+Todos os meus alunos, sem exceção, estão atuando ativamente, e tendo grandes retornos no mercado de criptomoedas.
+
+E o seu investimento nesta mentoria e 100% garantido. Caso não consiga o que deseja, ou não eseja de acordo com suas necessidades, **GARANTO O RETORNO INTEGRAL DO VALOR INVESTIDO EM 15 DIAS APÓS A AQUISIÇÃO DA MENTORIA!**
+
 Essa mentoria é parte da minha grande missão de propagar a grande revolução que as moedas digitais estão trazendo, e ajudar muitas pessoas de conquistarem seus sonhos e objetivos.
 
 E você? Quer fazer parte deste grupo de sucesso?
-
-Então não perca tempo, pois esta oportunidade é **APENAS PARA AS 10 PRIMEIRAS PESSOAS** que adquirirem a mentoria até dia 28/02/2018.
 
 Uma vez confirmado o pagamento, você receberá um e-mail, para confirmar os dias e horários das suas sessões.
 
@@ -84,13 +88,13 @@ O pagamento é realizado através do Pagseguro, e a compra é 100% segura e gara
 
 **NÃO PERCA TEMPO. CLIQUE NO LINK ABAIXO E GARANTA JÁ SUA VAGA!**
 
-<!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
 <center>
+<!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
 <form action="https://pagseguro.uol.com.br/checkout/v2/payment.html" method="post">
 <!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
-<input type="hidden" name="code" value="3C62EABB8B8B86C994874F864FF9FD3E" />
+<input type="hidden" name="code" value="4EE7060A24240DCAA4A9EF962C935413" />
 <input type="hidden" name="iot" value="button" />
 <input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/pagamentos/209x48-comprar-azul-assina.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
 </form>
-</center>
 <!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
+</center>
