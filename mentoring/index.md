@@ -80,11 +80,11 @@ E o seu investimento nesta mentoria e 100% garantido. Caso não consiga o que de
 
 Essa mentoria é parte da minha grande missão de propagar a grande revolução que as moedas digitais estão trazendo, e ajudar muitas pessoas de conquistarem seus sonhos e objetivos.
 
-E você? Quer fazer parte deste grupo de sucesso?
-
 Uma vez confirmado o pagamento, você receberá um e-mail, para confirmar os dias e horários das suas sessões.
 
 O pagamento é realizado através do Pagseguro, e a compra é 100% segura e garantida.
+
+E você? Quer fazer parte deste grupo de sucesso?
 
 **NÃO PERCA TEMPO. CLIQUE NO LINK ABAIXO E GARANTA JÁ SUA VAGA!**
 
