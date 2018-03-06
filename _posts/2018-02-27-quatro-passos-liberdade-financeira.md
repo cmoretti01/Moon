@@ -2,6 +2,8 @@
 layout: post
 title: Quatro passos para conquistar a liberdade financeira
 date: 2018-02-27
+feature: /assets/img/post04/estilo_de_vida
+excerpt: Hoje vou falar menos sobre moedas digitais, e mais sobre como conquistar a liberdade financeira.
 comments: true
 ---
 
@@ -59,6 +61,8 @@ O grande escritor e empreendedor Robert Kyosaki, autor do *best seller* "Pai Ric
 
 No livro, ele explica que as pessoas com grande sucesso financeiro sempre compram ativos. Enquanto que as pessoas que vivem em dificuldades compram passivos.
 
+![Compre ativos e venda passivos](/assets/img/post04/ativos_financeiros.jpeg)
+
 Mas como definir se algo é um ativo ou passivo?
 
 Se você tem carro, me responda: ele é um ativo ou passivo?
@@ -91,6 +95,8 @@ E nele, os autores afirmam uma máxima indiscutível: todos os entrevistados, qu
 
 Todos tiravam um tempo durante o dia, semana ou mês para rever suas receitas, gastos e investimentos. E este hábito era comum, mesmo quando eles ainda não tinham juntando seu primeiro milhão.
 
+![Faça um bom planejamento financeiro](/assets/img/post04/planejamento_financeiro.jpeg)
+
 Acredito que ficou bem claro a lição aqui, certo? Crie o costume de sempre revisar sua situação financeira, nem que seja pelo menos 20 minutos por semana.
 
 Crie um plano financeiro, que envolva metas e objetivos claros e realistas. Esse planejamento envolve:
@@ -117,6 +123,8 @@ Se fosse apenas eu que afirmasse isso, você até poderia desconsiderar. Mas já
 
 O grande problema aqui não é saber como ganhar dinheiro. Muitas pessoas conseguem faturar alto nos mais diversos cenários possíveis.
 
+![Invista em você para sempre ter grandes ideias lucrativas](/assets/img/post04/investir_em_ideias.jpeg)
+
 Mas o diferencial mesmo está em saber *conservar e lidar com o dinheiro*. E é nesse aspecto que a maioria das pessoas falham.
 
 Ninguém nasce sabendo economizar, investir ou especular com sucesso. É preciso aprender constantemente, e ter a mente aberta para as mais diversas oportunidades que a vida fornece.
@@ -142,7 +150,7 @@ E agora que você sabe que é possível alcançar a independência financeira, l
 
 Se você quer acelerar sua jornada rumo a independência financeira, existe um mercado novo e promissor, que está ajudando milhões de pessoas a conquistarem seus objetivos e sonhos.
 
-**Clique aqui e saiba mais sobre como ter ganhos expressivos neste mercado.**
+[**Clique aqui e saiba mais sobre como ter ganhos expressivos neste mercado.**](https://cmoretti01.gibthub.io/mentoring)
 
 E se você achou que este artigo lhe ajudou a compreender como é possível chegar a liberdade financeira, compartilhe com seus amigos e familiares.
 
