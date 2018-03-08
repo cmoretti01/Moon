@@ -2,7 +2,7 @@
 layout: post
 title: Quatro passos para conquistar a liberdade financeira
 date: 2018-02-27
-feature: /assets/img/post04/estilo_de_vida
+feature: /assets/img/post04/estilo_de_vida.jpeg
 excerpt: Hoje vou falar menos sobre moedas digitais, e mais sobre como conquistar a liberdade financeira.
 comments: true
 ---
