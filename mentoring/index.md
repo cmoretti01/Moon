@@ -23,6 +23,8 @@ Uma valorização de mais de 500% em 3 meses.
 
 E ainda com as recentes quedas, o Bitcoin consegue se manter próximo dos US$ 10.000,00. Valor 10x maior do que no começo de 2017.
 
+Outro fator importante: você pode ter lucros e gerar renda **TANTO EM MOMENTOS DE ALTA, QUANTO DE QUEDA.**
+
 Agora, se está em dúvida se a mentoria dá resultados, veja o que alguns de meus alunos estão achando:
 
 ![Depoimento 01](/assets/img/mentoring/depoimento01.png)
@@ -59,9 +61,9 @@ Em cada sessão, compartilho minha tela, aonde mostro como utilizo e aplico as m
 
 Você pode escolher o dia e horário mais adequados para realizar as aulas.
 
-A mentoria tem o valor total de R$ 3.000,00. Porém, exclusivamente até o fim do mês de Março, você poderá adquiri-la por apenas **R$ 1.500,00**.
+A mentoria tem o valor total de R$ 5.000,00. Porém, exclusivamente até o fim do mês de Abril, você poderá adquiri-la por apenas **R$ 1.500,00**.
 
-Isso mesmo! Metade do valor real.
+Isso mesmo! Menos da metade do valor real.
 
 E além das 4 sessões, a mentoria Cryptotrader BR também inclue:
 
@@ -92,7 +94,7 @@ E você? Quer fazer parte deste grupo de sucesso?
 <!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
 <form action="https://pagseguro.uol.com.br/checkout/v2/payment.html" method="post">
 <!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
-<input type="hidden" name="code" value="4EE7060A24240DCAA4A9EF962C935413" />
+<input type="hidden" name="code" value="73EB557D6C6CA42664D4CF8265551B2D" />
 <input type="hidden" name="iot" value="button" />
 <input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/pagamentos/209x48-comprar-azul-assina.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
 </form>
