@@ -107,7 +107,7 @@ E durante esse tempo todo, sabia que esses conhecimento não poderia ficar apena
 
 Essa que nomeei como **Mentoria Cryptotrader BR**.
 
-Comecei a divulgar e a fornecer para amigos e pessoas que conheci o meu trabalho. E veja o que alguns deles relataram sobre a mentoria:
+Comecei a divulgar e a fornecer para amigos e colegas, que passaram a acompanhar meus ganhos nas redes sociais. E veja o que alguns deles relataram sobre a mentoria:
 
 ![Depoimento 01](/assets/img/mentoring/depoimento01.png)
 <br>
