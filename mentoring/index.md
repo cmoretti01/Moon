@@ -170,6 +170,12 @@ Lembre-se: a mudança na sua vida depende das escolhas que você faz no presente
 
 E se você escolhe mudar de vida, o momento é agora!
 
+*Como posso ter certeza de que conseguirei aprender o que preciso para aproveitar esta oportunidade?*
+
+Todos os meus alunos, sem exceção, estão atuando ativamente, e tendo grandes retornos no mercado de criptomoedas.
+
+E o seu investimento nesta mentoria e 100% garantido. Caso não consiga o que deseja, ou não eseja de acordo com suas necessidades, **GARANTO O RETORNO INTEGRAL DO VALOR INVESTIDO EM 15 DIAS APÓS A AQUISIÇÃO DA MENTORIA!**
+
 *Eu até quero aprender, porém, não tenho tempo nem dinheiro para começar.*
 
 Eu entendo que numa situação ao qual estamos em nosso país, é difícil pesar as prioridades e encontrar a melhor solução.
@@ -217,12 +223,6 @@ E além das 4 sessões, a mentoria Cryptotrader BR também inclue:
 * **Bônus exclusivo:** recomendação especial, com ganho potencial acima de 100% em 2018.
 
 Todos esses bônus **GRATUITOS**. Sem nenhum custo adicional!
-
-## Garantia total de retorno
-
-Todos os meus alunos, sem exceção, estão atuando ativamente, e tendo grandes retornos no mercado de criptomoedas.
-
-E o seu investimento nesta mentoria e 100% garantido. Caso não consiga o que deseja, ou não eseja de acordo com suas necessidades, **GARANTO O RETORNO INTEGRAL DO VALOR INVESTIDO EM 15 DIAS APÓS A AQUISIÇÃO DA MENTORIA!**
 
 Essa mentoria é parte da minha grande missão de propagar a grande revolução que as moedas digitais estão trazendo, e ajudar muitas pessoas de conquistarem seus sonhos e objetivos.
 
