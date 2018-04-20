@@ -200,7 +200,7 @@ Nesta mentoria, você irá aprender:
 
 O treinamento é 100% on-line, e é feito através de uma sessão única via Hangouts ou Skype.
 
-O valor desta mentoria é de R$ 1.500,00. Porém, exclusivamente até o fim de Abril de 2018, **ela está em no valor promocional de R$ 500,00.**
+O valor desta mentoria é de R$ 1.500,00. Porém, exclusivamente até o fim de Abril de 2018, **ela está no valor promocional de R$ 500,00.**
 
 E além desta sessão, veja os bônus que sairão **de graça para você, ao adquirir a mentoria Cryptoinvestor BR:**
 
@@ -245,7 +245,7 @@ Nesta mentoria, você irá aprender:
 
 O treinamento é 100% on-line, e é feito através de três sessões via Hangouts ou Skype.
 
-O valor desta mentoria é de R$ 3.500,00. Porém, exclusivamente até o fim de Abril de 2018, **ela está em no valor promocional de R$ 1.000,00.**
+O valor desta mentoria é de R$ 3.500,00. Porém, exclusivamente até o fim de Abril de 2018, **ela está no valor promocional de R$ 1.000,00.**
 
 E além desta sessão, veja os bônus que sairão **de graça para você, ao adquirir a mentoria Cryptotrader BR:**
 
@@ -277,7 +277,7 @@ O plano é ideal para aqueles que querem se aprofundar no assunto, e extrair tod
 
 Assim como todas as outras mentorias, ela é feita on-line através de quatro sessões, realizadas via Hangouts ou Skype.
 
-O valor total deste plano é de R$ 5.000,00. Porém, exclusivamente até o fim de Abril de 2018, **ela está em no valor promocional de R$ 1.200,00.**
+O valor total deste plano é de R$ 5.000,00. Porém, exclusivamente até o fim de Abril de 2018, **ela está no valor promocional de R$ 1.200,00.**
 
 E além desta sessão, veja os bônus que sairão **de graça para você, ao adquirir a mentoria Cryptomaster BR:**
 
