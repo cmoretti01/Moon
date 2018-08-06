@@ -110,7 +110,7 @@ Sobre o terceiro aspecto citado, é importante que você busque saber mais sobre
 
 Existem aqueles que são mais seguros e que podem ser resgatados a qualquer momento, e ainda assim, fazem seu dinheiro render ao longo do tempo. Exemplos disso são os títulos do Tesouro Direto e CDB's de liquidez diária de bancos sólidos.
 
-Outros, apesar de apresentarem um risco maior, tem um potencial de aumentar e muito seu patrimônio. Estamos falando de ações e de moedas digitais, ao qual eu tenho tido rendimentos acima da média, e você pode saber mais [clicando aqui](https://cmoretti01.github.io/mentoring).
+Outros, apesar de apresentarem um risco maior, tem um potencial de aumentar e muito seu patrimônio. Estamos falando de ações e de moedas digitais, ao qual eu tenho tido rendimentos acima da média, e você pode saber mais [clicando aqui](https://bit.ly/2LUeRbD).
 
 Sempre balanceie bem o quanto irá investir em cada modalidade. Por exemplo, priorize 70% de seu dinheiro em ativos mais seguro, e 30% em investimentos mais arriscados e com um potencial maior de retorno.
 
@@ -151,7 +151,7 @@ E agora que você sabe que é possível alcançar a independência financeira, l
 
 Se você quer acelerar sua jornada rumo a independência financeira, existe um mercado novo e promissor, que está ajudando milhões de pessoas a conquistarem seus objetivos e sonhos.
 
-[**Clique aqui e saiba mais sobre como ter ganhos expressivos neste mercado.**](https://cmoretti01.gibthub.io/mentoring)
+[**Clique aqui e saiba mais sobre como ter ganhos expressivos neste mercado.**](https://bit.ly/2LUeRbD)
 
 E se você achou que este artigo lhe ajudou a compreender como é possível chegar a liberdade financeira, compartilhe com seus amigos e familiares.
 

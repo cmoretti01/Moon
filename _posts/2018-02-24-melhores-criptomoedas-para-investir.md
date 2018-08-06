@@ -123,7 +123,7 @@ Sendo assim, a melhor forma de adquirir essas moedas é por acumular uma boa qua
 
 Dentre as corretoras que conheço, recomendo que utilize a [Binance](www.binance.com), [HitBTC](www.hitbtc.com) e [Poloniex](www.poloniex.com).
 
-Agora, se você quer saber como eu consigo fazer análise de mercado, buscando boas moedas para comprar, e lucrando acima de 100% em dois meses, recomendo que confira a minha [mentoria exclusiva](https://cmoretti01.github.io/mentoring), onde ensino minhas principais estratégias vencedoras no mercado de criptomoedas. **E está com uma condição exclusiva até fim de Março de 2018**.
+Agora, se você quer saber como eu consigo fazer análise de mercado, buscando boas moedas para comprar, e lucrando acima de 100% em dois meses, recomendo que confira um [treinamento exclusivo](https://bit.ly/2LUeRbD), onde você aprenderá desde o zero como implementar estratégias vencedoras nesse mercado.
 
 E se você gostou do artigo, compartilhe-o com seus amigos.
 

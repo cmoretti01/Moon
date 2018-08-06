@@ -112,6 +112,8 @@ Com seus objetivos e metas bem definidos e claros, aliados ao seu conhecimento a
 
 Por isso, peço que favorite este blog, e fique atento nas redes sociais, para ficar a par dos meus novos posts, em que vou discutir minhas experiências com as criptomoedas.
 
+E se você se interessou sobre o assunto, e quer ter aprender do zero como investir em Bitcoin e utilizar estratégias vencedoras, [clique aqui](https://bit.ly/2LUeRbD) e conheça um treinamento exclusivo.
+
 Não esqueça de deixar seu comentário, sobre o que achou desta matéria, além de compartilhar sua visão sobre este mercado.
 
-E caso queira ter uma mentoria exclusive, onde eu ensino o passo a passo da minha estratégia vencedora, envie um e-mail para mim e conheça mais sobre a mentoria Cryptotrader BR.
+Forte abraço e até a próxima.

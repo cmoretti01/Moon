@@ -102,4 +102,4 @@ Compartilhe este post com seus amigos e ajude-os a se educarem, com respeito ao 
 
 Deixe seu comentário, dizendo o que achou deste artigo, se encontrou algo interessante, ou se tem alguma dúvida sobre esse mercado novo e promissor.
 
-E fica aqui meu convite: caso queira acelerar seus ganhos e ter as melhores estratégias para lucrar e muito com Bitcoin e criptomoedas, [clique aqui](https://cmoretti01.github.io/mentoring) e conheça a mentoria Cryptotrader BR.
+E fica aqui meu convite: caso queira acelerar seus ganhos e ter as melhores estratégias para lucrar e muito com Bitcoin e criptomoedas, [clique aqui](https://bit.ly/2LUeRbD) e conheça um treinamento exclusivo.
