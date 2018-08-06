@@ -127,6 +127,8 @@ Veja o que você irá aprender:
 
 Tudo isso você pode aprender e aplicar imediatamente, independente se você quer focar 100% nesse mercado, ou apenas quer expandir seus investimentos.
 
+[Clique aqui e comece agora o treinamento exclusivo sobre como investir em moedas digitais](https://cmoretti01.github.io/melhor-maneira-comprar-criptomoedas/)
+
 Mas você deve pensar:
 
 *Eu não tenho tanto dinheiro assim, e mesmo que tivesse, não aplicaria em algo tão arriscado e sem garantia!*
