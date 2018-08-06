@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mentorias Exclusivas
+title: Cursos e Treinamentos
 feature: /assets/img/mentoring/Mentoring.jpg
 comments: false
 ---
@@ -115,7 +115,7 @@ Comecei a divulgar e a fornecer para amigos e colegas, que passaram a acompanhar
 
 E agora, eu estendo a você, que veio até aqui, a oportunidade de conseguir ter os mesmos resultados que eu e meus alunos tivemos no mercado de criptomoedas.
 
-Veja o que você irá aprender comigo:
+Veja o que você irá aprender:
 
 * O que é e como funciona o Bitcoin.
 * Onde comprar e utilizar Bitcoin e outras moedas digitais.
@@ -155,12 +155,6 @@ Lembre-se: a mudança na sua vida depende das escolhas que você faz no presente
 
 E se você escolhe mudar de vida, o momento é agora!
 
-*Como posso ter certeza de que conseguirei aprender o que preciso para aproveitar esta oportunidade?*
-
-Todos os meus alunos, sem exceção, estão atuando ativamente, e tendo grandes retornos no mercado de criptomoedas.
-
-E o seu investimento nesta mentoria e 100% garantido. Caso não consiga o que deseja, ou não eseja de acordo com suas necessidades, **GARANTO O RETORNO INTEGRAL DO VALOR INVESTIDO EM 15 DIAS APÓS A AQUISIÇÃO DA MENTORIA!**
-
 *Eu até quero aprender, porém, não tenho tempo nem dinheiro para começar.*
 
 Eu entendo que numa situação ao qual estamos em nosso país, é difícil pesar as prioridades e encontrar a melhor solução.
@@ -177,129 +171,4 @@ Mais uma vez, eu afirmo: você é conhecido por suas escolhas. E as vezes, aquil
 
 Agora, você tem na suas mãos o poder de mudar drasticamente o rumo das suas finanças, e poder estar mais perto da sua liberdade financeira.
 
-Conheça agora os diferentes planos de mentoria e adquira o que mais se encaixa em seu perfil.
-
-
-## Mentoria Cryptoinvestor BR
-
-Ideal caso você desconheça totalmente o mercado de criptomoedas, e gostaria de ter um treinamento mais aprofundado sobre o assunto.
-
-Nesta mentoria, você irá aprender:
-
-* O que é Bitcoin e como ele funciona
-* Onde comprar e armazenar Bitcoin e outras criptomoedas
-* Como analisar as criptomoedas
-* Como montar um portfólio robusto e lucrativo
-
-*Esta mentoria é ideal caso você:*
-
-* Não conheça ou tenha um entendimento superficial do assunto
-* Tem a visão de longo prazo para investir
-* Procura formas de diversificar seus investimentos
-* Queira se aprofundar sobre o funcionamento das criptomoedas
-
-O treinamento é 100% on-line, e é feito através de uma sessão única via Hangouts ou Skype.
-
-O valor desta mentoria é de R$ 1.500,00. Porém, exclusivamente até o fim de Abril de 2018, **ela está no valor promocional de R$ 500,00.**
-
-E além desta sessão, veja os bônus que sairão **de graça para você, ao adquirir a mentoria Cryptoinvestor BR:**
-
-* Sessão extra, abordando estratégias para potencializar os lucros
-* Conteúdo das sessões em PDF
-* Inclusão no grupo de Whatsapp exclusivo com outros cryptoinvestor, tendo em primeira mão notícias e recomendações exclusivas
-* Três guias para montagem de portfólios, para diferentes perfis de investidores
-
-Todos esses bônus somados tem o valor de R$ 1.500,00, mas que sairão **totalmente gratuitos para você que adquirir a mentoria até o fim de Abril de 2018.**
-
-<center>
-<!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
-<form action="https://pagseguro.uol.com.br/checkout/v2/payment.html" method="post">
-<!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
-<input type="hidden" name="code" value="C1558A6449499C61142A6F8662CA8F37" />
-<input type="hidden" name="iot" value="button" />
-<input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/pagamentos/209x48-comprar-assina.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
-</form>
-<!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
-</center>
-
-## Mentoria Cryptotrader BR
-
-Esta mentoria é destinada para aqueles que já possuem um bom conhecimento sobre o mercado de criptomoedas, e que querem ampliar as possibilidades de ganho, através de técnicas e estratégias voltadas para o trading.
-
-Nesta mentoria, você irá aprender:
-
-* O que é análise técnica
-* Como funciona a análise técnica no mercado crypto
-* Principais indicadores utilizados
-* Estudo do livro de ofertas
-* Como escolher as criptomoedas ideais para o trading
-* Como desenvolver um mindset vencedor
-
-*Esta mentoria é ideal se você:*
-
-* Já investe em Bitcoin e criptomoedas
-* Quer ampliar seus lucros através do trading
-* Busca ampliar seu conhecimento e aprendizado
-* Quer aprender uma nova profissão
-* Tem um conhecimento básico de análise técnica
-
-O treinamento é 100% on-line, e é feito através de três sessões via Hangouts ou Skype.
-
-O valor desta mentoria é de R$ 3.500,00. Porém, exclusivamente até o fim de Abril de 2018, **ela está no valor promocional de R$ 1.000,00.**
-
-E além desta sessão, veja os bônus que sairão **de graça para você, ao adquirir a mentoria Cryptotrader BR:**
-
-* Sessão extra, revisando o conteúdo abordado e aplicações de set ups
-* Material das aulas em PDF
-* Inclusão no grupo de Whatsapp exclusivo com outros cryptotraders, onde você receberá notícias e recomendações exclusivas
-* Relatório exclusivo, com uma recomendação especial
-
-Todos esses bônus somados tem o valor de R$ 2.500,00, mas que sairão **totalmente gratuitos para você que adquirir a mentoria até o fim de Abril de 2018.**
-
-<center>
-<!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
-<form action="https://pagseguro.uol.com.br/checkout/v2/payment.html" method="post">
-<!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
-<input type="hidden" name="code" value="000831863838B22DD46E0F80CF9123C5" />
-<input type="hidden" name="iot" value="button" />
-<input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/pagamentos/209x48-comprar-azul-assina.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
-</form>
-<!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
-</center>
-
-## Mentoria Cryptomaster BR
-
-Essa é uma combinação especial das duas mentorias, que pode alavancar de vez seus ganhos com Bitcoin e outras criptomoedas. 
-
-É uma mentoria completa, envolvendo desde a introdução ao mercado de criptomoedas, como o aprendizado de estratégias avançadas, além do desenvolvimento do mindset vencedor.
-
-O plano é ideal para aqueles que querem se aprofundar no assunto, e extrair todo o potencial em gerar lucros e rendimentos acima da média, tanto a curto quanto a longo prazo.
-
-Assim como todas as outras mentorias, ela é feita on-line através de quatro sessões, realizadas via Hangouts ou Skype.
-
-O valor total deste plano é de R$ 5.000,00. Porém, exclusivamente até o fim de Abril de 2018, **ela está no valor promocional de R$ 1.200,00.**
-
-E além desta sessão, veja os bônus que sairão **de graça para você, ao adquirir a mentoria Cryptomaster BR:**
-
-* Sessão extra, abordando estratégias para potencializar os lucros
-* Conteúdo das sessões em PDF
-* Inclusão no grupo de Whatsapp exclusivo com outros cryptomasters, tendo em primeira mão notícias e recomendações exclusivas
-* Três guias para montagem de portfólios, para diferentes perfis de investidores
-* Recomendação exclusiva com potencial de ganhos acima de 500%
-
-Todos esses bônus somados tem o valor de R$ 2.500,00, mas que sairão **totalmente gratuitos para você que adquirir a mentoria até o fim de Abril de 2018.**
-
-<center>
-<!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
-<form action="https://pagseguro.uol.com.br/checkout/v2/payment.html" method="post">
-<!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
-<input type="hidden" name="code" value="B709FDEFBEBE2C1114A89FBECF6CDFEA" />
-<input type="hidden" name="iot" value="button" />
-<input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/pagamentos/209x48-comprar-preto-assina.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
-</form>
-<!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
-</center>
-
-<br>
-
-Não perca esta oportunidade! Escolha um plano que atenda as suas necessidades e comece agora a mudar de vez sua vida financeira, através do Bitcoin e das criptomoedas.
+[Convido você, neste momento, a conhecer o treinamento exclusivo de introdução a Moedas Digitais, clicando aqui!](https://cmoretti01.github.io/melhor-maneira-comprar-criptomoedas/)
