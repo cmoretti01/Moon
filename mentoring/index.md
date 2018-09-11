@@ -61,7 +61,7 @@ Mas não perca tempo. **AS VAGAS SÃO LIMITADAS!**
 
 Clique no botão abaixo e garanta já sua vaga na mentoria **Crypto Day-trader**.
 
-<!-- INICIO FORMULARIO BOTAO PAGSEGURO -->/
+<!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
 <form action="https://pagseguro.uol.com.br/checkout/v2/payment.html" method="post" onsubmit="PagSeguroLightbox(this); return false;">
 <!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
 <input type="hidden" name="code" value="1FC076741010061224B6BF9A2DBCC872" />
